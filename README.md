@@ -1,6 +1,6 @@
 # Vikalp_ML
-
-## Dataset used link: 
+## Positive News Recommendation System
+Dataset used link: 
 https://www.kaggle.com/datasets/hoshi7/news-sentiment-dataset?resource=download
 
 **Problem Statement:**
